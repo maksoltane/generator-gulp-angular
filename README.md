@@ -38,10 +38,6 @@ yo gulp-angular
 [List features included](docs/usage.md#features-included-in-the-gulpfile)
 
 
-## Questions the generator will ask
-
-[Questions the generator will ask](docs/usage.md#questions-the-generator-will-ask)
-
 
 ## Changelog
 
